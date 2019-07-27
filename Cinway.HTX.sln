@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinway.HTX", "Cinway.HTX\Cinway.HTX.csproj", "{07450608-1D7F-4F0D-8D75-D6FD818E477B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinway.Common", "Cinway.Common\Cinway.Common.csproj", "{EC05B2FA-91FB-4ECF-B7AF-8D5B4F05AD6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinway.Data", "Cinway.Data\Cinway.Data.csproj", "{B1F23204-7F7D-4FD0-BBD6-13EF895937CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTX.WebApi", "HTX.WebApi\HTX.WebApi.csproj", "{E9713676-6B31-4148-9CA9-09F4C31A442D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTXCustomer", "HTXCustomer\HTXCustomer.csproj", "{1BCF703B-E888-471A-9C7B-8936F7181F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTXService", "HTXService\HTXService.csproj", "{60E93488-8ACA-4BEA-BFBE-A0E89EA9362A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07450608-1D7F-4F0D-8D75-D6FD818E477B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07450608-1D7F-4F0D-8D75-D6FD818E477B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07450608-1D7F-4F0D-8D75-D6FD818E477B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07450608-1D7F-4F0D-8D75-D6FD818E477B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC05B2FA-91FB-4ECF-B7AF-8D5B4F05AD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC05B2FA-91FB-4ECF-B7AF-8D5B4F05AD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC05B2FA-91FB-4ECF-B7AF-8D5B4F05AD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC05B2FA-91FB-4ECF-B7AF-8D5B4F05AD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F23204-7F7D-4FD0-BBD6-13EF895937CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F23204-7F7D-4FD0-BBD6-13EF895937CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F23204-7F7D-4FD0-BBD6-13EF895937CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F23204-7F7D-4FD0-BBD6-13EF895937CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9713676-6B31-4148-9CA9-09F4C31A442D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9713676-6B31-4148-9CA9-09F4C31A442D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9713676-6B31-4148-9CA9-09F4C31A442D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9713676-6B31-4148-9CA9-09F4C31A442D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BCF703B-E888-471A-9C7B-8936F7181F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCF703B-E888-471A-9C7B-8936F7181F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCF703B-E888-471A-9C7B-8936F7181F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCF703B-E888-471A-9C7B-8936F7181F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E93488-8ACA-4BEA-BFBE-A0E89EA9362A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E93488-8ACA-4BEA-BFBE-A0E89EA9362A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E93488-8ACA-4BEA-BFBE-A0E89EA9362A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E93488-8ACA-4BEA-BFBE-A0E89EA9362A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
